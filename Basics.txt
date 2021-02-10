@@ -1,1 +1,3 @@
-https://medium.com/@smagid_allThings/uml-class-diagrams-tutorial-step-by-step-520fd83b300b
+https://medium.com/@smagid_allThings/uml-class-diagrams-tutorial-step-by-step-520fd83b300b       -----> Class Diagram
+
+https://medium.com/@smagid_allThings/uml-class-diagram-example-fab6197200e6          ----> Class Diagram Example.
