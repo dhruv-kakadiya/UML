@@ -1,3 +1,5 @@
-https://medium.com/@smagid_allThings/uml-class-diagrams-tutorial-step-by-step-520fd83b300b       -----> Class Diagram
+https://medium.com/@smagid_allThings/uml-class-diagrams-tutorial-step-by-step-520fd83b300b       -----> Class Diagram.
 
 https://medium.com/@smagid_allThings/uml-class-diagram-example-fab6197200e6          ----> Class Diagram Example.
+
+https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-use-case-diagram/         -----> Use Case Diagram.
